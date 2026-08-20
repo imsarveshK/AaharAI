@@ -1,0 +1,24 @@
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Acquired source files can be large and are reproducible from the manifests.
+data/raw/**
+!data/raw/.gitkeep
+data/inbox/**
+!data/inbox/README.md
+data/interim/**
+!data/interim/.gitkeep
+data/processed/**
+!data/processed/.gitkeep
+tmp/**
+!tmp/.gitkeep
+
+# Local databases and run logs.
+*.sqlite
+*.sqlite3
+logs/**
+!logs/.gitkeep
+
+.venv-analysis/

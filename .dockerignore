@@ -1,0 +1,15 @@
+.git
+.venv
+.pytest_cache
+**/__pycache__
+**/build
+android/.gradle
+analysis
+data
+docs
+logs
+paper
+server/.env
+tmp
+*.apk
+*.aab

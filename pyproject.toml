@@ -1,0 +1,32 @@
+[build-system]
+requires = ["hatchling>=1.26"]
+build-backend = "hatchling.build"
+
+[project]
+name = "aaharai-data"
+version = "0.1.0"
+description = "Reproducible India nutrition, food-market, food-composition, and cooking-method data pipeline"
+readme = "README.md"
+requires-python = ">=3.11"
+license = {text = "MIT"}
+authors = [{name = "AaharAI"}]
+dependencies = [
+  "fastapi>=0.116.0",
+  "google-auth[requests]>=2.40.0",
+  "httpx>=0.28.0",
+  "openpyxl>=3.1.5",
+  "pydantic-settings>=2.10.0",
+  "uvicorn[standard]>=0.35.0",
+]
+
+[project.scripts]
+aaharai = "aaharai.cli:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/aaharai", "src/aaharai_api"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[dependency-groups]
+dev = ["pytest>=8.4"]
