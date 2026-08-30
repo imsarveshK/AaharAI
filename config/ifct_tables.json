@@ -1,0 +1,30 @@
+{
+  "1": {"name": "Proximate principles and dietary fibre", "pages": [41, 68], "basis": "per 100 g edible portion", "nutrients": {"WATER": "g", "PROTCNT": "g", "ASH": "g", "FATCE": "g", "FIBTG": "g", "FIBINS": "g", "FIBSOL": "g", "CHOAVLDF": "g", "ENERC": "kJ"}},
+  "2": {"name": "Water soluble vitamins", "pages": [71, 98], "basis": "per 100 g edible portion", "nutrients": {"THIA": "mg", "RIBF": "mg", "NIA": "mg", "PANTAC": "mg", "VITB6A": "mg", "BIOT": "ug", "FOLSUM": "ug", "VITC": "mg"}},
+  "3": {"name": "Fat soluble vitamins", "pages": [101, 128], "basis": "per 100 g edible portion", "nutrients": {"ERGCAL": "ug", "CHOCAL": "ug", "25-OH-D3": "ug", "RETOL": "ug", "TOCPHA": "mg", "TOCPHB": "mg", "TOCPHG": "mg", "TOCPHD": "mg", "TOCTRA": "mg", "TOCTRB": "mg", "TOCTRG": "mg", "TOCTRD": "mg", "VITE": "mg", "VITK1": "ug", "VITK2": "ug"}},
+  "4": {"name": "Carotenoids", "pages": [131, 147], "basis": "per 100 g edible portion", "nutrients": {"LUTN": "ug", "ZEA": "ug", "LYCPN": "ug", "CRYPXB": "ug", "CARTG": "ug", "CARTA": "ug", "CARTB": "ug", "CARTOID": "ug"}},
+  "5": {"name": "Minerals and trace elements", "pages": [151, 206], "basis": "per 100 g edible portion", "nutrients": {"AL": "mg", "AS": "ug", "CA": "mg", "CD": "mg", "CR": "mg", "CO": "mg", "CU": "mg", "FE": "mg", "LI": "mg", "MG": "mg", "MN": "mg", "HG": "ug", "MO": "mg", "NI": "mg", "P": "mg", "K": "mg", "PB": "mg", "SE": "ug", "NA": "mg", "ZN": "mg"}},
+  "6": {"name": "Starch and individual sugars", "pages": [209, 224], "basis": "per 100 g edible portion", "nutrients": {"CHO": "g", "FRUS": "g", "GLUS": "g", "SUCS": "g", "MALS": "g"}},
+  "7": {"name": "Fatty acid profile", "pages": [227, 293], "basis": "per 100 g edible portion", "nutrients": {"FASAT": null, "FAMS": null, "FAPU": null, "TSFA": null, "TMUFA": null, "TPUFA": null, "F10D0": null, "F11D0": null, "F12D0": null, "F14D0": null, "F14D1": null, "F15D0": null, "F16D0": null, "F16D1": null, "F18D0": null, "F18D1N9": null, "F18D2N6": null, "F18D3N3": null, "F20D0": null, "F20D1N9": null, "F20D2": null, "F20D3N6": null, "F20D4N6": null, "F20D5N3": null, "F22D0": null, "F22D1N9": null, "F22D2": null, "F22D5N3": null, "F22D6N3": null, "F24D0": null, "F24D1N9": null, "CHOLC": null}},
+  "8": {"name": "Amino acid profile", "pages": [297, 361], "basis": "g per 100 g protein", "nutrients": {"ALA": "g", "ARG": "g", "ASN": "g", "ASP": "g", "CYS": "g", "GLU": "g", "GLY": "g", "HIS": "g", "ILE": "g", "LE": "g", "LEU": "g", "LYS": "g", "MET": "g", "PHE": "g", "PRO": "g", "SER": "g", "THR": "g", "TRP": "g", "TYR": "g", "VAL": "g"}},
+  "9": {"name": "Organic acids", "pages": [364, 380], "basis": "per 100 g edible portion", "nutrients": {"OXALATE_TOTAL": "mg", "OXALATE_SOLUBLE": "mg", "OXALATE_INSOLUBLE": "mg", "CIS_ACONITIC_ACID": "mg", "CITAC": "mg", "FUMAC": "mg", "MALAC": "mg", "QUINIC_ACID": "mg", "SUCAC": "mg", "TARAC": "mg"}, "header_aliases": {"Total": "OXALATE_TOTAL", "Soluble": "OXALATE_SOLUBLE", "Insoluble": "OXALATE_INSOLUBLE", "Cis-Aconitic": "CIS_ACONITIC_ACID", "Quinic": "QUINIC_ACID"}},
+  "10": {
+    "name": "Polyphenols",
+    "pages": [384, 451],
+    "basis": "per 100 g edible portion",
+    "nutrients": {
+      "3_4_DIHYDROXY_BENZOIC_ACID": "mg", "3_HYDROXY_BENZALDEHYDE": "mg", "PROTOCATECHUIC_ACID": "mg", "VANILLIC_ACID": "mg", "GALLAC": "mg", "CINNAMIC_ACID": "mg", "O_COUMARIC_ACID": "mg", "P_COUMARIC_ACID": "mg", "CAFFEIC_ACID": "mg",
+      "CHLRAC": "mg", "FERAC": "mg", "APIGEN": "mg", "APIGEN_6_C_GLUOSIDE": "mg", "APIGEN_7_O_NEOHESPERIDOSIDE": "mg", "LUTEOL": "mg", "KAEMF": "mg", "QUERCE": "mg", "QUERCETIN_3_BETA_D_GLUCOSIDE": "mg", "QUERCETIN_3_O_RUTINOSIDE": "mg",
+      "QUERCETIN_3_BETA_GALACTOSIDE": "mg", "ISORHAMNETIN": "mg", "MYRICETIN": "mg", "RESVERATROL": "mg", "HESPT": "mg", "NARINGENIN": "mg", "HESPD": "mg", "DAIDZN": "mg", "GNSTEIN": "mg", "EPICATEC": "mg",
+      "EPICATEGC": "mg", "EPIGALLOCATECHIN_3_GALLATE": "mg", "CATECHIN": "mg", "GALLOCATECHIN_GALLATE": "mg", "GALLOCATECHIN": "mg", "SYRINGIC_ACID": "mg", "SINAPINIC_ACID": "mg", "ELLAGIC_ACID": "mg", "TOTAL_POLYPHENOLS": "mg"
+    },
+    "fixed_page_columns": [
+      {"codes": ["3_4_DIHYDROXY_BENZOIC_ACID", "3_HYDROXY_BENZALDEHYDE", "PROTOCATECHUIC_ACID", "VANILLIC_ACID", "GALLAC", "CINNAMIC_ACID", "O_COUMARIC_ACID", "P_COUMARIC_ACID", "CAFFEIC_ACID"], "centres": [308.7, 368.2, 434.6, 499.4, 554.9, 607.8, 660.4, 717.9, 779.5]},
+      {"codes": ["CHLRAC", "FERAC", "APIGEN", "APIGEN_6_C_GLUOSIDE", "APIGEN_7_O_NEOHESPERIDOSIDE", "LUTEOL", "KAEMF", "QUERCE", "QUERCETIN_3_BETA_D_GLUCOSIDE", "QUERCETIN_3_O_RUTINOSIDE"], "centres": [307.9, 360.7, 413.5, 466.4, 519.3, 572.1, 624.9, 677.8, 730.6, 783.5]},
+      {"codes": ["QUERCETIN_3_BETA_GALACTOSIDE", "ISORHAMNETIN", "MYRICETIN", "RESVERATROL", "HESPT", "NARINGENIN", "HESPD", "DAIDZN", "GNSTEIN", "EPICATEC"], "centres": [307.9, 360.7, 413.5, 466.4, 519.3, 572.1, 624.9, 677.8, 730.6, 783.5]},
+      {"codes": ["EPICATEGC", "EPIGALLOCATECHIN_3_GALLATE", "CATECHIN", "GALLOCATECHIN_GALLATE", "GALLOCATECHIN", "SYRINGIC_ACID", "SINAPINIC_ACID", "ELLAGIC_ACID", "TOTAL_POLYPHENOLS"], "centres": [307.8, 368.9, 428.1, 485.4, 544.4, 607.8, 669.4, 724.6, 779.8]}
+    ]
+  },
+  "11": {"name": "Oligosaccharides, phytosterols, phytates and saponins", "pages": [454, 471], "basis": "per 100 g edible portion", "nutrients": {"RAFS": "g", "STAS": "g", "VERS": "g", "AJUGOSE": "g", "CAMT": "mg", "STGSTR": "mg", "BETA_SITOSTEROL": "mg", "PHYTAC": "mg", "TOTAL_SAPONIN": "g"}, "header_aliases": {"Ajugose": "AJUGOSE", "β-Sitosterol": "BETA_SITOSTEROL", "Saponin": "TOTAL_SAPONIN"}},
+  "12": {"name": "Fatty acid profile of edible oils and fats", "pages": [474, 477], "basis": "as published", "nutrients": {"F4D0": null, "F6D0": null, "F8D0": null, "F10D0": null, "F12D0": null, "F14D0": null, "F14D1": null, "F16D0": null, "F16D1": null, "F18D0": null, "F18D1N9": null, "F18D1TN9": null, "F18D2N6": null, "F18D3N3": null, "F20D0": null, "F20D1N9": null, "F22D0": null, "F22D1N9": null, "F24D0": null, "FASAT": null, "FAMS": null, "FAPU": null, "TSFA": null, "TMUFA": null, "TPUFA": null}}
+}
