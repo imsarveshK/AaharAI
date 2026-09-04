@@ -1,0 +1,25 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Cooking method experiment",
+  "type": "object",
+  "required": ["experiment_id", "dish_name_local", "method", "raw_weight_g", "cooked_weight_g"],
+  "properties": {
+    "experiment_id": {"type": "string", "minLength": 1},
+    "state_lgd_code": {"type": ["string", "null"]},
+    "district_lgd_code": {"type": ["string", "null"]},
+    "cultural_group": {"type": ["string", "null"]},
+    "dish_name_local": {"type": "string"},
+    "method": {"enum": ["raw", "boil", "steam", "pressure_cook", "fry", "deep_fry", "roast", "bake", "ferment", "sprout", "mixed"]},
+    "time_minutes": {"type": ["number", "null"], "minimum": 0},
+    "temperature_c": {"type": ["number", "null"]},
+    "pressure_kpa": {"type": ["number", "null"]},
+    "water_added_g": {"type": ["number", "null"], "minimum": 0},
+    "cooking_liquid_retained": {"type": ["boolean", "null"]},
+    "raw_weight_g": {"type": "number", "exclusiveMinimum": 0},
+    "cooked_weight_g": {"type": "number", "exclusiveMinimum": 0},
+    "holding_minutes": {"type": ["number", "null"], "minimum": 0},
+    "reheated": {"type": ["boolean", "null"]}
+  },
+  "additionalProperties": false
+}
+
