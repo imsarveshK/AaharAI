@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Laboratory nutrient or safety measurement",
+  "type": "object",
+  "required": ["measurement_id", "sample_id", "analyte", "value", "unit", "analytical_method", "laboratory"],
+  "properties": {
+    "measurement_id": {"type": "string", "minLength": 1},
+    "sample_id": {"type": "string", "minLength": 1},
+    "analyte": {"type": "string", "minLength": 1},
+    "value": {"type": "number"},
+    "unit": {"type": "string", "minLength": 1},
+    "limit_of_detection": {"type": ["number", "null"]},
+    "limit_of_quantification": {"type": ["number", "null"]},
+    "analytical_method": {"type": "string", "minLength": 1},
+    "laboratory": {"type": "string", "minLength": 1},
+    "nabl_accredited": {"type": ["boolean", "null"]},
+    "replicate": {"type": ["integer", "null"], "minimum": 1}
+  },
+  "additionalProperties": false
+}
+

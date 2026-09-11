@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Vegetable supply-chain quality sample",
+  "type": "object",
+  "required": ["sample_id", "food_code", "settlement_class", "market_type", "purchase_datetime"],
+  "properties": {
+    "sample_id": {"type": "string", "minLength": 1},
+    "state_lgd_code": {"type": ["string", "null"]},
+    "district_lgd_code": {"type": ["string", "null"]},
+    "settlement_class": {"enum": ["village", "small_town", "mid_town", "large_city", "metropolitan"]},
+    "market_type": {"enum": ["farm_gate", "village_haat", "retail_market", "district_mandi", "wholesale_market", "supermarket"]},
+    "food_code": {"type": "string"},
+    "cultivar": {"type": ["string", "null"]},
+    "harvest_datetime": {"type": ["string", "null"], "format": "date-time"},
+    "purchase_datetime": {"type": "string", "format": "date-time"},
+    "storage_temperature_c": {"type": ["number", "null"]},
+    "transport_hours": {"type": ["number", "null"], "minimum": 0},
+    "source_district_lgd_code": {"type": ["string", "null"]}
+  },
+  "additionalProperties": false
+}
+
