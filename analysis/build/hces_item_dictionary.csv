@@ -1,0 +1,187 @@
+item_code,item_label,section,food_group,reference_period_days,source,is_subtotal
+001,coarse grains-PDS,5.1,cereals,30,item_table,False
+002,coarse grains-other,5.1,cereals,30,item_table,False
+003,paneer,6.1,milk_and_products,7,item_table,False
+004,prepared sweets,6.1,milk_and_products,7,item_table,False
+005,cheese,6.1,milk_and_products,7,item_table,False
+006,lassi,6.1,milk_and_products,7,dropdown_note,False
+007,butter milk,6.1,milk_and_products,7,dropdown_note,False
+008,apricot,6.4,fruits_dry,7,dropdown_note,False
+010,dry fig: anjeer,6.4,fruits_dry,7,dropdown_note,False
+011,soda drinks,6.8,beverages,7,item_table,False
+012,"breakfast cereals (oats, cornflakes, muesli etc.)",7.2,packaged_processed_food,7,item_table,False
+013,Biscuits,7.2,packaged_processed_food,7,item_table,False
+014,"health supplements (protein powder, probiotic",7.2,packaged_processed_food,7,item_table,False
+015,"noodles (cup noodles, rice noodles, etc.)",7.2,packaged_processed_food,7,item_table,False
+055,jowar & its products,5.1,cereals,30,dropdown_note,False
+056,bajra & its products,5.1,cereals,30,dropdown_note,False
+057,maize & its products,5.1,cereals,30,dropdown_note,False
+058,barley & its products,5.1,cereals,30,dropdown_note,False
+059,ragi & its products,5.1,cereals,30,dropdown_note,False
+060,small millets & its products,5.1,cereals,30,dropdown_note,False
+061,rice-free,5.1,cereals,30,item_table,False
+062,wheat/atta- free,5.1,cereals,30,item_table,False
+063,jowar & its products,5.1,cereals,30,dropdown_note,False
+064,bajra & its products,5.1,cereals,30,dropdown_note,False
+065,maize & its products,5.1,cereals,30,dropdown_note,False
+066,barley & its products,5.1,cereals,30,dropdown_note,False
+067,ragi & its products,5.1,cereals,30,dropdown_note,False
+068,small millets & its products,5.1,cereals,30,dropdown_note,False
+070,coarse grains& - free,5.1,cereals,30,item_table,False
+071,pulses –free,5.2,pulses,30,item_table,False
+072,gram,5.2,pulses,30,dropdown_note,False
+073,uld be recorded against ingredients. 4.‘$’Consumption of salt,5.3,sugar_salt,30,dropdown_note,False
+074,sugar,5.3,sugar_salt,30,dropdown_note,False
+075,edible oil- free,6.6,edible_oil,7,item_table,False
+076,cooked meals purchased at subsidized rate,7.1,served_processed_food,7,item_table,False
+092,other milk products,6.1,milk_and_products,7,item_table,False
+093,other fresh fruits,6.3,fruits_fresh,7,item_table,False
+094,other dry fruits,6.4,fruits_dry,7,item_table,False
+095,edible oil: others,6.6,edible_oil,7,item_table,False
+101,rice – PDS,5.1,cereals,30,item_table,False
+102,rice – other sources,5.1,cereals,30,item_table,False
+103,chira,5.1,cereals,30,item_table,False
+105,muri,5.1,cereals,30,item_table,False
+106,other rice products,5.1,cereals,30,item_table,False
+107,wheat/ atta – PDS,5.1,cereals,30,item_table,False
+108,wheat/ atta – other sources,5.1,cereals,30,item_table,False
+110,maida,5.1,cereals,30,item_table,False
+111,"suji, rawa",5.1,cereals,30,item_table,False
+112,vermicelli (sewai),5.1,cereals,30,item_table,False
+113,bread (bakery),7.2,packaged_processed_food,7,item_table,False
+114,other wheat products,5.1,cereals,30,item_table,False
+115,jowar& its products,5.1,cereals,30,dropdown_note,False
+116,bajra& its products,5.1,cereals,30,dropdown_note,False
+117,maize & its products,5.1,cereals,30,dropdown_note,False
+118,barley & its products,5.1,cereals,30,dropdown_note,False
+120,small millets & its products,5.1,cereals,30,dropdown_note,False
+121,ragi& its products,5.1,cereals,30,dropdown_note,False
+122,other cereals& products,5.1,cereals,30,item_table,False
+129,cereal: sub-total,5.1,cereals,30,item_table,True
+139,cereal substitutes:,5.1,cereals,30,item_table,True
+140,"arhar, tur",5.2,pulses,30,item_table,False
+141,gram: split,5.2,pulses,30,item_table,False
+142,gram: whole,5.2,pulses,30,item_table,False
+143,moong,5.2,pulses,30,item_table,False
+144,masur,5.2,pulses,30,item_table,False
+145,urd,5.2,pulses,30,item_table,False
+146,"peas, chickpeas",5.2,pulses,30,item_table,False
+148,other pulses,5.2,pulses,30,item_table,False
+150,"besan, gram",5.2,pulses,30,item_table,False
+152,other pulse products,5.2,pulses,30,item_table,False
+158,pulses - PDS,5.2,pulses,30,item_table,False
+159,pulses & pulse,5.2,pulses,30,item_table,True
+160,milk: liquid,6.1,milk_and_products,7,item_table,False
+161,baby food,7.2,packaged_processed_food,7,item_table,False
+162,milk: condensed/,6.1,milk_and_products,7,item_table,False
+163,"curd, yogurt",6.1,milk_and_products,7,item_table,False
+164,ghee,6.1,milk_and_products,7,item_table,False
+165,butter,6.1,milk_and_products,7,item_table,False
+166,ice-cream,6.1,milk_and_products,7,item_table,False
+167,others,6.1,milk_and_products,7,dropdown_note,False
+169,milk & milk products:,6.1,milk_and_products,7,item_table,True
+170,salt – other sources,5.3,sugar_salt,30,item_table,False
+171,sugar –PDS,5.3,sugar_salt,30,item_table,False
+172,sugar – other sources,5.3,sugar_salt,30,item_table,False
+173,jaggery (gur),5.3,sugar_salt,30,item_table,False
+174,"candy, misri",5.3,sugar_salt,30,item_table,False
+175,honey,5.3,sugar_salt,30,item_table,False
+178,salt - PDS,5.3,sugar_salt,30,item_table,False
+179,salt & sugar: sub-total,5.3,sugar_salt,30,item_table,True
+180,margarine,6.6,edible_oil,7,dropdown_note,False
+181,mustard oil,6.6,edible_oil,7,item_table,False
+182,groundnut oil,6.6,edible_oil,7,item_table,False
+183,coconut oil,6.6,edible_oil,7,item_table,False
+184,refined oil [sunflower,6.6,edible_oil,7,item_table,False
+185,others,6.6,edible_oil,7,dropdown_note,False
+188,edible oil - PDS,6.6,edible_oil,7,item_table,False
+189,edible oil: sub-total,6.6,edible_oil,7,item_table,True
+190,eggs,6.5,egg_fish_meat,7,item_table,False
+191,"fish, prawn",6.5,egg_fish_meat,7,item_table,False
+192,goat meat/,6.5,egg_fish_meat,7,item_table,False
+193,beef/ buffalo meat,6.5,egg_fish_meat,7,item_table,False
+194,pork,6.5,egg_fish_meat,7,item_table,False
+195,chicken,6.5,egg_fish_meat,7,item_table,False
+196,"others: birds, crab",6.5,egg_fish_meat,7,item_table,False
+199,"egg, fish &meat:",6.5,egg_fish_meat,7,item_table,True
+200,potato,6.2,vegetables,7,item_table,False
+201,onion,6.2,vegetables,7,item_table,False
+202,tomato,6.2,vegetables,7,item_table,False
+203,brinjal,6.2,vegetables,7,item_table,False
+204,radish,6.2,vegetables,7,item_table,False
+205,carrot,6.2,vegetables,7,item_table,False
+206,palak/other leafy,6.2,vegetables,7,item_table,False
+207,green chillies,6.2,vegetables,7,item_table,False
+208,lady's finger,6.2,vegetables,7,item_table,False
+210,parwal/patal,6.2,vegetables,7,item_table,False
+211,cauliflower,6.2,vegetables,7,item_table,False
+212,cabbage,6.2,vegetables,7,item_table,False
+213,"gourd, pumpkin",6.2,vegetables,7,item_table,False
+214,Peas,6.2,vegetables,7,item_table,False
+215,"beans, barbati",6.2,vegetables,7,item_table,False
+216,lemon,6.2,vegetables,7,item_table,False
+217,other vegetables,6.2,vegetables,7,item_table,False
+219,vegetables: sub-,6.2,vegetables,7,item_table,True
+220,banana,6.3,fruits_fresh,7,item_table,False
+221,jackfruit,6.3,fruits_fresh,7,dropdown_note,False
+222,watermelon,6.3,fruits_fresh,7,item_table,False
+223,pineapple,6.3,fruits_fresh,7,dropdown_note,False
+224,coconut,6.3,fruits_fresh,7,item_table,False
+225,green coconut,6.3,fruits_fresh,7,item_table,False
+226,guava,6.3,fruits_fresh,7,item_table,False
+227,singara,6.3,fruits_fresh,7,dropdown_note,False
+228,"orange, sweet",6.3,fruits_fresh,7,item_table,False
+230,papaya,6.3,fruits_fresh,7,item_table,False
+231,mango,6.3,fruits_fresh,7,item_table,False
+232,kharbooza,6.3,fruits_fresh,7,item_table,False
+233,pears/nashpati,6.3,fruits_fresh,7,dropdown_note,False
+234,berries,6.3,fruits_fresh,7,dropdown_note,False
+235,litchi,6.3,fruits_fresh,7,dropdown_note,False
+236,apple,6.3,fruits_fresh,7,item_table,False
+237,grapes,6.3,fruits_fresh,7,item_table,False
+238,others,6.3,fruits_fresh,7,dropdown_note,False
+239,fruits (fresh): sub-,6.3,fruits_fresh,7,item_table,True
+240,coconut: copra,6.4,fruits_dry,7,item_table,False
+241,groundnut,6.4,fruits_dry,7,item_table,False
+242,dates,6.4,fruits_dry,7,item_table,False
+243,cashew nut,6.4,fruits_dry,7,item_table,False
+245,other nuts (almond,6.4,fruits_dry,7,item_table,False
+246,raisin(kishmish),6.4,fruits_dry,7,item_table,False
+247,others,6.4,fruits_dry,7,dropdown_note,False
+249,fruits (dry): sub-total,6.4,fruits_dry,7,item_table,True
+250,ginger,6.7,spices,7,item_table,False
+251,garlic,6.7,spices,7,item_table,False
+252,cumin (jeera (gm)),6.7,spices,7,item_table,False
+253,coriander (dhania,6.7,spices,7,item_table,False
+254,turmeric,6.7,spices,7,item_table,False
+255,black pepper,6.7,spices,7,item_table,False
+256,dry chillies,6.7,spices,7,item_table,False
+257,tamarind,6.7,spices,7,item_table,False
+258,curry powder,6.7,spices,7,item_table,False
+260,oilseeds,6.7,spices,7,item_table,False
+261,other spices,6.7,spices,7,item_table,False
+263,poppy seeds,6.7,spices,7,item_table,False
+269,spices: sub-total,6.7,spices,7,item_table,True
+270,tea: cups,6.8,beverages,7,item_table,False
+271,tea: leaf,6.8,beverages,7,item_table,False
+272,coffee: cups,6.8,beverages,7,item_table,False
+273,coffee: powder,6.8,beverages,7,item_table,False
+274,mineral water,6.8,beverages,7,item_table,False
+275,other cold beverages:,6.8,beverages,7,item_table,False
+276,fruit juice and shake,6.8,beverages,7,item_table,False
+278,other beverages: cocoa,6.8,beverages,7,item_table,False
+279,beverages: sub-total,6.8,beverages,7,item_table,True
+280,cooked meals purchased,7.1,served_processed_food,7,item_table,False
+281,cooked meals received free in workplace,7.1,served_processed_food,7,item_table,False
+282,cooked meals received as assistance,7.1,served_processed_food,7,item_table,False
+283,"cooked snacks purchased [samosa, puri, paratha",7.1,served_processed_food,7,item_table,False
+284,other served processed food,7.1,served_processed_food,7,item_table,False
+289,served processed food: sub-total,7.1,served_processed_food,7,item_table,True
+290,"cake, pastry",7.2,packaged_processed_food,7,item_table,False
+291,"chocolates, etc",7.2,packaged_processed_food,7,item_table,False
+292,"papad, bhujia, namkeen, mixture, chanachur",7.2,packaged_processed_food,7,item_table,False
+293,"chips , nachos, puffs, wafers, etc",7.2,packaged_processed_food,7,item_table,False
+294,pickles,7.2,packaged_processed_food,7,item_table,False
+295,"sauce, jam, jelly, mayonnaise",7.2,packaged_processed_food,7,item_table,False
+296,"other packaged processed food (poha, other ready",7.2,packaged_processed_food,7,item_table,False
+299,packaged processed food: sub-total,7.2,packaged_processed_food,7,item_table,True
