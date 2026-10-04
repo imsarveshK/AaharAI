@@ -1,0 +1,1806 @@
+{
+  "sample": {
+    "households_total": 261953,
+    "households_analysis": 261895,
+    "households_dropped_no_food_records": 58,
+    "rural": 154314,
+    "urban": 107581,
+    "psus": 14827,
+    "strata_design": 863,
+    "weighted_households": 291564169.63,
+    "weighted_persons": 1217531551.87,
+    "adopters": 19842,
+    "adopters_expenditure": 24527
+  },
+  "prevalence": {
+    "online_food_any": {
+      "all": {
+        "pct": 7.099,
+        "se": 0.171,
+        "ci": [
+          6.764,
+          7.433
+        ]
+      },
+      "rural": {
+        "pct": 2.478,
+        "se": 0.142,
+        "ci": [
+          2.2,
+          2.755
+        ]
+      },
+      "urban": {
+        "pct": 16.244,
+        "se": 0.413,
+        "ci": [
+          15.434,
+          17.054
+        ]
+      }
+    },
+    "online_food_any_7d": {
+      "all": {
+        "pct": 5.644,
+        "se": 0.157,
+        "ci": [
+          5.336,
+          5.952
+        ]
+      },
+      "rural": {
+        "pct": 1.869,
+        "se": 0.13,
+        "ci": [
+          1.614,
+          2.123
+        ]
+      },
+      "urban": {
+        "pct": 13.116,
+        "se": 0.382,
+        "ci": [
+          12.367,
+          13.865
+        ]
+      }
+    },
+    "online_fresh_any": {
+      "all": {
+        "pct": 1.693,
+        "se": 0.088,
+        "ci": [
+          1.52,
+          1.866
+        ]
+      },
+      "rural": {
+        "pct": 0.606,
+        "se": 0.061,
+        "ci": [
+          0.486,
+          0.726
+        ]
+      },
+      "urban": {
+        "pct": 3.846,
+        "se": 0.234,
+        "ci": [
+          3.388,
+          4.304
+        ]
+      }
+    },
+    "online_processed_any": {
+      "all": {
+        "pct": 3.542,
+        "se": 0.127,
+        "ci": [
+          3.294,
+          3.79
+        ]
+      },
+      "rural": {
+        "pct": 1.059,
+        "se": 0.095,
+        "ci": [
+          0.873,
+          1.246
+        ]
+      },
+      "urban": {
+        "pct": 8.455,
+        "se": 0.319,
+        "ci": [
+          7.831,
+          9.08
+        ]
+      }
+    },
+    "online_services_any": {
+      "all": {
+        "pct": 39.694,
+        "se": 0.307,
+        "ci": [
+          39.092,
+          40.295
+        ]
+      },
+      "rural": {
+        "pct": 29.72,
+        "se": 0.331,
+        "ci": [
+          29.071,
+          30.369
+        ]
+      },
+      "urban": {
+        "pct": 59.433,
+        "se": 0.592,
+        "ci": [
+          58.273,
+          60.593
+        ]
+      }
+    },
+    "online_durables_any": {
+      "all": {
+        "pct": 23.311,
+        "se": 0.254,
+        "ci": [
+          22.812,
+          23.81
+        ]
+      },
+      "rural": {
+        "pct": 14.459,
+        "se": 0.225,
+        "ci": [
+          14.018,
+          14.899
+        ]
+      },
+      "urban": {
+        "pct": 40.831,
+        "se": 0.565,
+        "ci": [
+          39.724,
+          41.939
+        ]
+      }
+    },
+    "online_overall_any": {
+      "all": {
+        "pct": 45.6,
+        "se": 0.297,
+        "ci": [
+          45.018,
+          46.183
+        ]
+      },
+      "rural": {
+        "pct": 34.778,
+        "se": 0.334,
+        "ci": [
+          34.122,
+          35.433
+        ]
+      },
+      "urban": {
+        "pct": 67.02,
+        "se": 0.534,
+        "ci": [
+          65.973,
+          68.068
+        ]
+      }
+    },
+    "online_vegetables": {
+      "all": {
+        "pct": 1.321,
+        "se": 0.078,
+        "ci": [
+          1.168,
+          1.473
+        ]
+      },
+      "rural": {
+        "pct": 0.441,
+        "se": 0.052,
+        "ci": [
+          0.34,
+          0.542
+        ]
+      },
+      "urban": {
+        "pct": 3.062,
+        "se": 0.208,
+        "ci": [
+          2.654,
+          3.47
+        ]
+      }
+    },
+    "online_served_processed": {
+      "all": {
+        "pct": 2.598,
+        "se": 0.111,
+        "ci": [
+          2.379,
+          2.816
+        ]
+      },
+      "rural": {
+        "pct": 0.867,
+        "se": 0.091,
+        "ci": [
+          0.688,
+          1.045
+        ]
+      },
+      "urban": {
+        "pct": 6.024,
+        "se": 0.274,
+        "ci": [
+          5.487,
+          6.56
+        ]
+      }
+    },
+    "online_packed_processed": {
+      "all": {
+        "pct": 1.646,
+        "se": 0.077,
+        "ci": [
+          1.496,
+          1.796
+        ]
+      },
+      "rural": {
+        "pct": 0.261,
+        "se": 0.025,
+        "ci": [
+          0.211,
+          0.311
+        ]
+      },
+      "urban": {
+        "pct": 4.386,
+        "se": 0.22,
+        "ci": [
+          3.955,
+          4.817
+        ]
+      }
+    },
+    "online_groceries": {
+      "all": {
+        "pct": 4.293,
+        "se": 0.128,
+        "ci": [
+          4.041,
+          4.544
+        ]
+      },
+      "rural": {
+        "pct": 1.379,
+        "se": 0.087,
+        "ci": [
+          1.209,
+          1.55
+        ]
+      },
+      "urban": {
+        "pct": 10.058,
+        "se": 0.341,
+        "ci": [
+          9.39,
+          10.727
+        ]
+      }
+    }
+  },
+  "weighted_adopting_households_millions": 20.7,
+  "vegetable_acquisition": {
+    "all": {
+      "kg_per_capita_30d": 7.1512,
+      "g_per_capita_day": 238.4,
+      "se_g_day": 0.72,
+      "pct_of_icmr_nin_400g": 59.6
+    },
+    "rural": {
+      "kg_per_capita_30d": 7.1857,
+      "g_per_capita_day": 239.5,
+      "se_g_day": 0.87,
+      "pct_of_icmr_nin_400g": 59.9
+    },
+    "urban": {
+      "kg_per_capita_30d": 7.0698,
+      "g_per_capita_day": 235.7,
+      "se_g_day": 1.29,
+      "pct_of_icmr_nin_400g": 58.9
+    }
+  },
+  "mpce": {
+    "rural": {
+      "mpce": 4122.15,
+      "se": 14.71
+    },
+    "urban": {
+      "mpce": 6996.41,
+      "se": 49.03
+    }
+  },
+  "mpce_published_2023_24": {
+    "rural": 4122.0,
+    "urban": 6996.0
+  },
+  "decile_gradient": {
+    "d1_any_pct": 0.34,
+    "d10_any_pct": 23.84,
+    "ratio_d10_d1": 70.5,
+    "d1_processed_to_fresh": 0.85,
+    "d10_processed_to_fresh": 2.35,
+    "d1_mpce": 2013,
+    "d10_mpce": 12054
+  },
+  "adopter_mix_pct": {
+    "Groceries": 60.47,
+    "Served processed food": 36.59,
+    "Packaged processed food": 23.19,
+    "Milk": 20.28,
+    "Other food items": 18.7,
+    "Vegetables": 18.61,
+    "Fresh fruits": 14.12,
+    "Dry fruits": 8.78,
+    "Egg, fish and meat": 8.36
+  },
+  "module_reliability": {
+    "agreement_pct": 98.21,
+    "cohens_kappa": 0.885,
+    "ticked_category_but_zero_spend": 0,
+    "spend_positive_but_no_category": 4685,
+    "median_spend_among_adopters": 1400.0,
+    "dose_response_mean_spend": {
+      "1": 1274,
+      "2": 1833,
+      "3": 2358,
+      "4": 2819,
+      "5": 3721,
+      "6": 3776,
+      "7": 5448,
+      "8": 4993,
+      "9": 4763
+    }
+  },
+  "adoption_model": [
+    {
+      "term": "const",
+      "estimate": 0.0,
+      "se": 0.608836,
+      "z": -37.739235,
+      "p": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "log_mpce",
+      "estimate": 6.614862,
+      "se": 0.065068,
+      "z": 29.036255,
+      "p": 0.0,
+      "ci_low": 5.822844,
+      "ci_high": 7.514609,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "max_edu_years",
+      "estimate": 1.099627,
+      "se": 0.006341,
+      "z": 14.976652,
+      "p": 0.0,
+      "ci_low": 1.086045,
+      "ci_high": 1.113379,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "any_internet",
+      "estimate": 2.881245,
+      "se": 0.136753,
+      "z": 7.73818,
+      "p": 0.0,
+      "ci_low": 2.203817,
+      "ci_high": 3.766907,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "urban",
+      "estimate": 1.823141,
+      "se": 0.079855,
+      "z": 7.520611,
+      "p": 0.0,
+      "ci_low": 1.559004,
+      "ci_high": 2.13203,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "log_hh_size",
+      "estimate": 2.567054,
+      "se": 0.054826,
+      "z": 17.19535,
+      "p": 0.0,
+      "ci_low": 2.305509,
+      "ci_high": 2.858271,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "share_female",
+      "estimate": 0.893385,
+      "se": 0.087501,
+      "z": -1.28842,
+      "p": 0.1976,
+      "ci_low": 0.752589,
+      "ci_high": 1.060521,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "n_children_u5",
+      "estimate": 0.947428,
+      "se": 0.027201,
+      "z": -1.985394,
+      "p": 0.047101,
+      "ci_low": 0.898241,
+      "ci_high": 0.999309,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "n_elderly_60p",
+      "estimate": 1.020955,
+      "se": 0.027172,
+      "z": 0.763234,
+      "p": 0.445324,
+      "ci_low": 0.968005,
+      "ci_high": 1.076802,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "mean_age",
+      "estimate": 0.992007,
+      "se": 0.002192,
+      "z": -3.661209,
+      "p": 0.000251,
+      "ci_low": 0.987755,
+      "ci_high": 0.996278,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "owns_land",
+      "estimate": 1.018179,
+      "se": 0.049907,
+      "z": 0.360975,
+      "p": 0.718118,
+      "ci_low": 0.9233,
+      "ci_high": 1.122807,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "clean_cooking_fuel",
+      "estimate": 1.546548,
+      "se": 0.08123,
+      "z": 5.367755,
+      "p": 0.0,
+      "ci_low": 1.318924,
+      "ci_high": 1.813455,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "pds_user",
+      "estimate": 0.689135,
+      "se": 0.04591,
+      "z": -8.109746,
+      "p": 0.0,
+      "ci_low": 0.629834,
+      "ci_high": 0.75402,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "social_group_Not reported",
+      "estimate": 0.32567,
+      "se": 0.587547,
+      "z": -1.909413,
+      "p": 0.056209,
+      "ci_low": 0.102957,
+      "ci_high": 1.030147,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "social_group_OBC",
+      "estimate": 1.008697,
+      "se": 0.04691,
+      "z": 0.184607,
+      "p": 0.853538,
+      "ci_low": 0.920092,
+      "ci_high": 1.105835,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "social_group_SC",
+      "estimate": 0.84462,
+      "se": 0.068747,
+      "z": -2.456369,
+      "p": 0.014035,
+      "ci_low": 0.738148,
+      "ci_high": 0.966449,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "social_group_ST",
+      "estimate": 1.115651,
+      "se": 0.105105,
+      "z": 1.041218,
+      "p": 0.297774,
+      "ci_low": 0.907951,
+      "ci_high": 1.370863,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "religion_Buddhism",
+      "estimate": 0.638521,
+      "se": 0.247395,
+      "z": -1.813299,
+      "p": 0.069786,
+      "ci_low": 0.39318,
+      "ci_high": 1.036951,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "religion_Christianity",
+      "estimate": 1.202653,
+      "se": 0.107128,
+      "z": 1.722523,
+      "p": 0.084975,
+      "ci_low": 0.974884,
+      "ci_high": 1.483637,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "religion_Islam",
+      "estimate": 1.004404,
+      "se": 0.073162,
+      "z": 0.060057,
+      "p": 0.95211,
+      "ci_low": 0.870227,
+      "ci_high": 1.159268,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "religion_Jainism",
+      "estimate": 1.039965,
+      "se": 0.232278,
+      "z": 0.168706,
+      "p": 0.866028,
+      "ci_low": 0.659634,
+      "ci_high": 1.639584,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "religion_Not reported",
+      "estimate": 1.006839,
+      "se": 0.962981,
+      "z": 0.007078,
+      "p": 0.994353,
+      "ci_low": 0.1525,
+      "ci_high": 6.647391,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "religion_Others",
+      "estimate": 2.317586,
+      "se": 0.309981,
+      "z": 2.711542,
+      "p": 0.006697,
+      "ci_low": 1.26235,
+      "ci_high": 4.254928,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "religion_Sikhism",
+      "estimate": 1.128622,
+      "se": 0.158135,
+      "z": 0.765156,
+      "p": 0.444179,
+      "ci_low": 0.827835,
+      "ci_high": 1.538698,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "religion_Zoroastrianism",
+      "estimate": 4.573578,
+      "se": 1.184147,
+      "z": 1.283874,
+      "p": 0.199186,
+      "ci_low": 0.449064,
+      "ci_high": 46.580505,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "household_type_Casual labour in agriculture",
+      "estimate": 1.129862,
+      "se": 0.122263,
+      "z": 0.998623,
+      "p": 0.317977,
+      "ci_low": 0.889108,
+      "ci_high": 1.435807,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "household_type_Casual labour in non-agriculture",
+      "estimate": 0.925986,
+      "se": 0.114856,
+      "z": -0.6695,
+      "p": 0.503176,
+      "ci_low": 0.739331,
+      "ci_high": 1.159765,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "household_type_Regular wage in agriculture",
+      "estimate": 0.867521,
+      "se": 0.118988,
+      "z": -1.194366,
+      "p": 0.232335,
+      "ci_low": 0.687063,
+      "ci_high": 1.095375,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "household_type_Regular wage in non-agriculture",
+      "estimate": 1.116223,
+      "se": 0.116106,
+      "z": 0.946985,
+      "p": 0.343647,
+      "ci_low": 0.88904,
+      "ci_high": 1.40146,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "household_type_Self-employed in agriculture",
+      "estimate": 1.026735,
+      "se": 0.072059,
+      "z": 0.366138,
+      "p": 0.714262,
+      "ci_low": 0.891501,
+      "ci_high": 1.182482,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "household_type_Self-employed in non-agriculture",
+      "estimate": 1.19228,
+      "se": 0.074366,
+      "z": 2.364904,
+      "p": 0.018035,
+      "ci_low": 1.030572,
+      "ci_high": 1.379363,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "State_01",
+      "estimate": 0.078621,
+      "se": 0.347933,
+      "z": -7.309194,
+      "p": 0.0,
+      "ci_low": 0.039754,
+      "ci_high": 0.15549,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "State_02",
+      "estimate": 0.068428,
+      "se": 0.538537,
+      "z": -4.980106,
+      "p": 1e-06,
+      "ci_low": 0.023814,
+      "ci_high": 0.196625,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "State_03",
+      "estimate": 0.634104,
+      "se": 0.214159,
+      "z": -2.127119,
+      "p": 0.03341,
+      "ci_low": 0.416742,
+      "ci_high": 0.964835,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "State_04",
+      "estimate": 4.469314,
+      "se": 0.36969,
+      "z": 4.049975,
+      "p": 5.1e-05,
+      "ci_low": 2.16551,
+      "ci_high": 9.224046,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "State_05",
+      "estimate": 1.404037,
+      "se": 0.213914,
+      "z": 1.586391,
+      "p": 0.112651,
+      "ci_low": 0.923197,
+      "ci_high": 2.135319,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "State_06",
+      "estimate": 0.913789,
+      "se": 0.174809,
+      "z": -0.515741,
+      "p": 0.606036,
+      "ci_low": 0.648707,
+      "ci_high": 1.287191,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "State_07",
+      "estimate": 22.015819,
+      "se": 0.177703,
+      "z": 17.398452,
+      "p": 0.0,
+      "ci_low": 15.540807,
+      "ci_high": 31.188617,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "State_08",
+      "estimate": 0.30702,
+      "se": 0.191533,
+      "z": -6.165208,
+      "p": 0.0,
+      "ci_low": 0.210927,
+      "ci_high": 0.446889,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "State_10",
+      "estimate": 1.102275,
+      "se": 0.161414,
+      "z": 0.603273,
+      "p": 0.546327,
+      "ci_low": 0.803331,
+      "ci_high": 1.512467,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "State_11",
+      "estimate": 0.538159,
+      "se": 0.22155,
+      "z": -2.796659,
+      "p": 0.005163,
+      "ci_low": 0.3486,
+      "ci_high": 0.830797,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "State_12",
+      "estimate": 0.831923,
+      "se": 0.23902,
+      "z": -0.769872,
+      "p": 0.441376,
+      "ci_low": 0.52075,
+      "ci_high": 1.329039,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "State_13",
+      "estimate": 0.094245,
+      "se": 0.431137,
+      "z": -5.4782,
+      "p": 0.0,
+      "ci_low": 0.040483,
+      "ci_high": 0.219404,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "State_14",
+      "estimate": 1.103236,
+      "se": 0.286885,
+      "z": 0.342462,
+      "p": 0.732003,
+      "ci_low": 0.62874,
+      "ci_high": 1.935822,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "State_15",
+      "estimate": 1.096569,
+      "se": 0.26138,
+      "z": 0.352692,
+      "p": 0.72432,
+      "ci_low": 0.656975,
+      "ci_high": 1.830305,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "State_16",
+      "estimate": 0.135005,
+      "se": 0.308865,
+      "z": -6.483243,
+      "p": 0.0,
+      "ci_low": 0.073696,
+      "ci_high": 0.247318,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "State_17",
+      "estimate": 0.03046,
+      "se": 0.4606,
+      "z": -7.580008,
+      "p": 0.0,
+      "ci_low": 0.01235,
+      "ci_high": 0.075126,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "State_18",
+      "estimate": 0.678707,
+      "se": 0.191857,
+      "z": -2.020078,
+      "p": 0.043375,
+      "ci_low": 0.465986,
+      "ci_high": 0.988533,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "State_19",
+      "estimate": 1.121195,
+      "se": 0.137853,
+      "z": 0.829833,
+      "p": 0.406633,
+      "ci_low": 0.855737,
+      "ci_high": 1.469002,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "State_20",
+      "estimate": 0.883106,
+      "se": 0.241563,
+      "z": -0.514608,
+      "p": 0.606827,
+      "ci_low": 0.55004,
+      "ci_high": 1.417853,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "State_21",
+      "estimate": 0.340308,
+      "se": 0.236361,
+      "z": -4.560415,
+      "p": 5e-06,
+      "ci_low": 0.214132,
+      "ci_high": 0.540833,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "State_22",
+      "estimate": 2.347054,
+      "se": 0.314827,
+      "z": 2.709939,
+      "p": 0.00673,
+      "ci_low": 1.266316,
+      "ci_high": 4.350147,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "State_23",
+      "estimate": 0.914473,
+      "se": 0.162574,
+      "z": -0.549948,
+      "p": 0.582355,
+      "ci_low": 0.664949,
+      "ci_high": 1.257633,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "State_24",
+      "estimate": 0.611124,
+      "se": 0.148539,
+      "z": -3.315322,
+      "p": 0.000915,
+      "ci_low": 0.456764,
+      "ci_high": 0.817647,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "State_25",
+      "estimate": 0.243257,
+      "se": 0.454388,
+      "z": -3.111081,
+      "p": 0.001864,
+      "ci_low": 0.099837,
+      "ci_high": 0.592708,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "State_27",
+      "estimate": 1.187497,
+      "se": 0.131276,
+      "z": 1.309054,
+      "p": 0.190516,
+      "ci_low": 0.9181,
+      "ci_high": 1.535942,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "State_28",
+      "estimate": 0.308537,
+      "se": 0.20878,
+      "z": -5.632315,
+      "p": 0.0,
+      "ci_low": 0.204925,
+      "ci_high": 0.464538,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "State_29",
+      "estimate": 2.792256,
+      "se": 0.132782,
+      "z": 7.733357,
+      "p": 0.0,
+      "ci_low": 2.15244,
+      "ci_high": 3.622258,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "State_30",
+      "estimate": 0.265358,
+      "se": 0.332834,
+      "z": -3.986,
+      "p": 6.7e-05,
+      "ci_low": 0.138205,
+      "ci_high": 0.509496,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "State_31",
+      "estimate": 0.032065,
+      "se": 0.72869,
+      "z": -4.720777,
+      "p": 2e-06,
+      "ci_low": 0.007687,
+      "ci_high": 0.133751,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "State_32",
+      "estimate": 0.676694,
+      "se": 0.166474,
+      "z": -2.34593,
+      "p": 0.01898,
+      "ci_low": 0.488304,
+      "ci_high": 0.937768,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "State_33",
+      "estimate": 0.483872,
+      "se": 0.168476,
+      "z": -4.308837,
+      "p": 1.6e-05,
+      "ci_low": 0.347795,
+      "ci_high": 0.673189,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "State_34",
+      "estimate": 0.118987,
+      "se": 0.285981,
+      "z": -7.443627,
+      "p": 0.0,
+      "ci_low": 0.067932,
+      "ci_high": 0.208415,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "State_35",
+      "estimate": 0.3586,
+      "se": 0.626339,
+      "z": -1.637366,
+      "p": 0.101554,
+      "ci_low": 0.105068,
+      "ci_high": 1.223916,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "State_36",
+      "estimate": 3.397337,
+      "se": 0.130357,
+      "z": 9.381845,
+      "p": 0.0,
+      "ci_low": 2.631348,
+      "ci_high": 4.386307,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "State_37",
+      "estimate": 1.092452,
+      "se": 0.336049,
+      "z": 0.263131,
+      "p": 0.792449,
+      "ci_low": 0.565402,
+      "ci_high": 2.110802,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "month_102023",
+      "estimate": 1.25269,
+      "se": 0.119199,
+      "z": 1.890057,
+      "p": 0.05875,
+      "ci_low": 0.991702,
+      "ci_high": 1.582364,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "month_112023",
+      "estimate": 1.074372,
+      "se": 0.096348,
+      "z": 0.744552,
+      "p": 0.456543,
+      "ci_low": 0.889494,
+      "ci_high": 1.297677,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "month_12024",
+      "estimate": 1.072904,
+      "se": 0.090342,
+      "z": 0.778919,
+      "p": 0.436027,
+      "ci_low": 0.898797,
+      "ci_high": 1.280737,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "month_22024",
+      "estimate": 1.176884,
+      "se": 0.106586,
+      "z": 1.528063,
+      "p": 0.126497,
+      "ci_low": 0.955009,
+      "ci_high": 1.450306,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "month_32024",
+      "estimate": 1.088951,
+      "se": 0.107886,
+      "z": 0.789857,
+      "p": 0.429611,
+      "ci_low": 0.881405,
+      "ci_high": 1.345368,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "month_42024",
+      "estimate": 0.98255,
+      "se": 0.111473,
+      "z": -0.157923,
+      "p": 0.874518,
+      "ci_low": 0.789712,
+      "ci_high": 1.222476,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "month_52024",
+      "estimate": 0.964825,
+      "se": 0.104714,
+      "z": -0.341969,
+      "p": 0.732374,
+      "ci_low": 0.785806,
+      "ci_high": 1.184626,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "month_62024",
+      "estimate": 0.888808,
+      "se": 0.109898,
+      "z": -1.072576,
+      "p": 0.283461,
+      "ci_low": 0.716577,
+      "ci_high": 1.102436,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "month_72024",
+      "estimate": 0.942361,
+      "se": 0.125577,
+      "z": -0.472757,
+      "p": 0.636387,
+      "ci_low": 0.73676,
+      "ci_high": 1.205336,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "month_82023",
+      "estimate": 1.442725,
+      "se": 0.601146,
+      "z": 0.609726,
+      "p": 0.542044,
+      "ci_low": 0.444107,
+      "ci_high": 4.686836,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "month_82024",
+      "estimate": 1.102009,
+      "se": 0.151701,
+      "z": 0.640306,
+      "p": 0.521974,
+      "ci_low": 0.818573,
+      "ci_high": 1.483586,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "term": "month_92023",
+      "estimate": 1.17224,
+      "se": 0.170069,
+      "z": 0.934426,
+      "p": 0.350084,
+      "ci_low": 0.839951,
+      "ci_high": 1.635985,
+      "n": 261895,
+      "n_clusters": 14827
+    }
+  ],
+  "budget_shares": [
+    {
+      "outcome": "share_vegetables",
+      "label": "Vegetables",
+      "exposure": "online_food_any",
+      "estimate": -0.006301,
+      "se": 0.000996,
+      "p": 0.0,
+      "ci_low": -0.008253,
+      "ci_high": -0.00435,
+      "baseline_mean": 0.132619,
+      "n": 261887,
+      "n_clusters": 14827
+    },
+    {
+      "outcome": "share_fruits_fresh",
+      "label": "Fruits (fresh)",
+      "exposure": "online_food_any",
+      "estimate": 0.000492,
+      "se": 0.000912,
+      "p": 0.589369,
+      "ci_low": -0.001295,
+      "ci_high": 0.00228,
+      "baseline_mean": 0.057048,
+      "n": 261887,
+      "n_clusters": 14827
+    },
+    {
+      "outcome": "share_milk_and_products",
+      "label": "Milk and milk products",
+      "exposure": "online_food_any",
+      "estimate": -0.005131,
+      "se": 0.001464,
+      "p": 0.000457,
+      "ci_low": -0.008,
+      "ci_high": -0.002262,
+      "baseline_mean": 0.163073,
+      "n": 261887,
+      "n_clusters": 14827
+    },
+    {
+      "outcome": "share_egg_fish_meat",
+      "label": "Egg, fish and meat",
+      "exposure": "online_food_any",
+      "estimate": -0.003684,
+      "se": 0.00132,
+      "p": 0.005243,
+      "ci_low": -0.006271,
+      "ci_high": -0.001098,
+      "baseline_mean": 0.105836,
+      "n": 261887,
+      "n_clusters": 14827
+    },
+    {
+      "outcome": "share_cereals",
+      "label": "Cereals",
+      "exposure": "online_food_any",
+      "estimate": -0.006921,
+      "se": 0.000978,
+      "p": 0.0,
+      "ci_low": -0.008838,
+      "ci_high": -0.005005,
+      "baseline_mean": 0.105987,
+      "n": 261887,
+      "n_clusters": 14827
+    },
+    {
+      "outcome": "share_pulses",
+      "label": "Pulses",
+      "exposure": "online_food_any",
+      "estimate": -0.002265,
+      "se": 0.000489,
+      "p": 4e-06,
+      "ci_low": -0.003223,
+      "ci_high": -0.001307,
+      "baseline_mean": 0.041768,
+      "n": 261887,
+      "n_clusters": 14827
+    },
+    {
+      "outcome": "share_edible_oil",
+      "label": "Edible oil",
+      "exposure": "online_food_any",
+      "estimate": -0.002527,
+      "se": 0.000458,
+      "p": 0.0,
+      "ci_low": -0.003426,
+      "ci_high": -0.001629,
+      "baseline_mean": 0.057974,
+      "n": 261887,
+      "n_clusters": 14827
+    },
+    {
+      "outcome": "share_packaged_processed_food",
+      "label": "Packaged processed food",
+      "exposure": "online_food_any",
+      "estimate": 0.018136,
+      "se": 0.001627,
+      "p": 0.0,
+      "ci_low": 0.014947,
+      "ci_high": 0.021324,
+      "baseline_mean": 0.071925,
+      "n": 261887,
+      "n_clusters": 14827
+    },
+    {
+      "outcome": "share_served_processed_food",
+      "label": "Served processed food",
+      "exposure": "online_food_any",
+      "estimate": 0.003174,
+      "se": 0.003473,
+      "p": 0.360696,
+      "ci_low": -0.003632,
+      "ci_high": 0.009981,
+      "baseline_mean": 0.096962,
+      "n": 261887,
+      "n_clusters": 14827
+    },
+    {
+      "outcome": "share_beverages",
+      "label": "Beverages",
+      "exposure": "online_food_any",
+      "estimate": 0.005587,
+      "se": 0.001105,
+      "p": 0.0,
+      "ci_low": 0.003422,
+      "ci_high": 0.007752,
+      "baseline_mean": 0.054978,
+      "n": 261887,
+      "n_clusters": 14827
+    }
+  ],
+  "levels": [
+    {
+      "outcome": "veg_qty_kg_pc",
+      "label": "Vegetable quantity (kg/capita/30d)",
+      "exposure": "online_food_any",
+      "estimate": -0.233811,
+      "se": 0.082561,
+      "p": 0.004626,
+      "ci_low": -0.395626,
+      "ci_high": -0.071995,
+      "baseline_mean": 7.787613,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "outcome": "log_val_food_total_pc",
+      "label": "log food expenditure per capita",
+      "exposure": "online_food_any",
+      "estimate": 0.046913,
+      "se": 0.005597,
+      "p": 0.0,
+      "ci_low": 0.035943,
+      "ci_high": 0.057883,
+      "baseline_mean": 7.699599,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "outcome": "log_val_vegetables_pc",
+      "label": "log vegetable expenditure per capita",
+      "exposure": "online_food_any",
+      "estimate": 0.030556,
+      "se": 0.027138,
+      "p": 0.260191,
+      "ci_low": -0.022634,
+      "ci_high": 0.083746,
+      "baseline_mean": 5.507541,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "outcome": "log_val_packaged_processed_food_pc",
+      "label": "log packaged processed expenditure per capita",
+      "exposure": "online_food_any",
+      "estimate": 0.233094,
+      "se": 0.01891,
+      "p": 0.0,
+      "ci_low": 0.196032,
+      "ci_high": 0.270156,
+      "baseline_mean": 4.813989,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "outcome": "log_val_served_processed_food_pc",
+      "label": "log served processed expenditure per capita",
+      "exposure": "online_food_any",
+      "estimate": 0.246049,
+      "se": 0.027537,
+      "p": 0.0,
+      "ci_low": 0.192078,
+      "ci_high": 0.300021,
+      "baseline_mean": 4.678764,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "outcome": "log_val_beverages_pc",
+      "label": "log beverage expenditure per capita",
+      "exposure": "online_food_any",
+      "estimate": 0.140354,
+      "se": 0.035347,
+      "p": 7.2e-05,
+      "ci_low": 0.071075,
+      "ci_high": 0.209634,
+      "baseline_mean": 4.516346,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "outcome": "food_group_count",
+      "label": "Number of food groups acquired",
+      "exposure": "online_food_any",
+      "estimate": 0.054051,
+      "se": 0.027637,
+      "p": 0.050497,
+      "ci_low": -0.000117,
+      "ci_high": 0.108219,
+      "baseline_mean": 10.132289,
+      "n": 261895,
+      "n_clusters": 14827
+    },
+    {
+      "outcome": "veg_unit_value",
+      "label": "Vegetable unit value (Rs/kg)",
+      "exposure": "online_food_any",
+      "estimate": 0.764468,
+      "se": 0.266936,
+      "p": 0.004185,
+      "ci_low": 0.241283,
+      "ci_high": 1.287653,
+      "baseline_mean": 40.373198,
+      "n": 256416,
+      "n_clusters": 14780
+    }
+  ],
+  "cem_shares": [
+    {
+      "outcome": "share_vegetables",
+      "label": "Vegetables",
+      "share_online": 0.094144,
+      "share_offline": 0.103904,
+      "difference_pp": -0.976006,
+      "se_pp": 0.162893,
+      "p": 0.0,
+      "n_online": 19325,
+      "n_offline": 106356
+    },
+    {
+      "outcome": "share_fruits_fresh",
+      "label": "Fruits (fresh)",
+      "share_online": 0.068911,
+      "share_offline": 0.068385,
+      "difference_pp": 0.052592,
+      "se_pp": 0.120059,
+      "p": 0.66135,
+      "n_online": 19325,
+      "n_offline": 106356
+    },
+    {
+      "outcome": "share_milk_and_products",
+      "label": "Milk and milk products",
+      "share_online": 0.180577,
+      "share_offline": 0.18119,
+      "difference_pp": -0.061362,
+      "se_pp": 0.288477,
+      "p": 0.831553,
+      "n_online": 19325,
+      "n_offline": 106356
+    },
+    {
+      "outcome": "share_egg_fish_meat",
+      "label": "Egg, fish and meat",
+      "share_online": 0.081007,
+      "share_offline": 0.082775,
+      "difference_pp": -0.176863,
+      "se_pp": 0.219384,
+      "p": 0.420138,
+      "n_online": 19325,
+      "n_offline": 106356
+    },
+    {
+      "outcome": "share_cereals",
+      "label": "Cereals",
+      "share_online": 0.088731,
+      "share_offline": 0.093782,
+      "difference_pp": -0.505012,
+      "se_pp": 0.160941,
+      "p": 0.001702,
+      "n_online": 19325,
+      "n_offline": 106356
+    },
+    {
+      "outcome": "share_pulses",
+      "label": "Pulses",
+      "share_online": 0.03374,
+      "share_offline": 0.036289,
+      "difference_pp": -0.254937,
+      "se_pp": 0.06764,
+      "p": 0.000164,
+      "n_online": 19325,
+      "n_offline": 106356
+    },
+    {
+      "outcome": "share_edible_oil",
+      "label": "Edible oil",
+      "share_online": 0.040903,
+      "share_offline": 0.044571,
+      "difference_pp": -0.366824,
+      "se_pp": 0.074987,
+      "p": 1e-06,
+      "n_online": 19325,
+      "n_offline": 106356
+    },
+    {
+      "outcome": "share_packaged_processed_food",
+      "label": "Packaged processed food",
+      "share_online": 0.092309,
+      "share_offline": 0.077584,
+      "difference_pp": 1.472493,
+      "se_pp": 0.155795,
+      "p": 0.0,
+      "n_online": 19325,
+      "n_offline": 106356
+    },
+    {
+      "outcome": "share_served_processed_food",
+      "label": "Served processed food",
+      "share_online": 0.143479,
+      "share_offline": 0.136228,
+      "difference_pp": 0.725106,
+      "se_pp": 0.714638,
+      "p": 0.310273,
+      "n_online": 19325,
+      "n_offline": 106356
+    },
+    {
+      "outcome": "share_beverages",
+      "label": "Beverages",
+      "share_online": 0.072328,
+      "share_offline": 0.06835,
+      "difference_pp": 0.397857,
+      "se_pp": 0.156621,
+      "p": 0.011077,
+      "n_online": 19325,
+      "n_offline": 106356
+    }
+  ],
+  "evalues": [
+    {
+      "label": "Vegetables",
+      "ratio_of_shares": 0.906066,
+      "e_value": 1.441932
+    },
+    {
+      "label": "Fruits (fresh)",
+      "ratio_of_shares": 1.007691,
+      "e_value": 1.095723
+    },
+    {
+      "label": "Milk and milk products",
+      "ratio_of_shares": 0.996613,
+      "e_value": 1.06179
+    },
+    {
+      "label": "Egg, fish and meat",
+      "ratio_of_shares": 0.978633,
+      "e_value": 1.171198
+    },
+    {
+      "label": "Cereals",
+      "ratio_of_shares": 0.94615,
+      "e_value": 1.302178
+    },
+    {
+      "label": "Pulses",
+      "ratio_of_shares": 0.929748,
+      "e_value": 1.360638
+    },
+    {
+      "label": "Edible oil",
+      "ratio_of_shares": 0.9177,
+      "e_value": 1.40229
+    },
+    {
+      "label": "Packaged processed food",
+      "ratio_of_shares": 1.189794,
+      "e_value": 1.664995
+    },
+    {
+      "label": "Served processed food",
+      "ratio_of_shares": 1.053227,
+      "e_value": 1.289998
+    },
+    {
+      "label": "Beverages",
+      "ratio_of_shares": 1.058209,
+      "e_value": 1.306398
+    }
+  ],
+  "category_adoption": [
+    {
+      "outcome": "online_vegetables",
+      "label": "Vegetables",
+      "n": 261895,
+      "n_clusters": 14827,
+      "log_mpce_or": 4.418246,
+      "log_mpce_lo": 3.586109,
+      "log_mpce_hi": 5.443476,
+      "log_mpce_p": 0.0,
+      "max_edu_years_or": 1.041552,
+      "max_edu_years_lo": 1.018181,
+      "max_edu_years_hi": 1.065459,
+      "max_edu_years_p": 0.000438,
+      "urban_or": 1.830152,
+      "urban_lo": 1.337994,
+      "urban_hi": 2.503342,
+      "urban_p": 0.000156
+    },
+    {
+      "outcome": "online_fresh_fruits",
+      "label": "Fresh fruits",
+      "n": 261895,
+      "n_clusters": 14827,
+      "log_mpce_or": 4.846419,
+      "log_mpce_lo": 3.937785,
+      "log_mpce_hi": 5.964718,
+      "log_mpce_p": 0.0,
+      "max_edu_years_or": 1.075572,
+      "max_edu_years_lo": 1.047666,
+      "max_edu_years_hi": 1.104222,
+      "max_edu_years_p": 0.0,
+      "urban_or": 1.876931,
+      "urban_lo": 1.37538,
+      "urban_hi": 2.56138,
+      "urban_p": 7.2e-05
+    },
+    {
+      "outcome": "online_groceries",
+      "label": "Groceries",
+      "n": 261895,
+      "n_clusters": 14827,
+      "log_mpce_or": 4.992674,
+      "log_mpce_lo": 4.302722,
+      "log_mpce_hi": 5.793261,
+      "log_mpce_p": 0.0,
+      "max_edu_years_or": 1.084817,
+      "max_edu_years_lo": 1.068233,
+      "max_edu_years_hi": 1.101659,
+      "max_edu_years_p": 0.0,
+      "urban_or": 1.58992,
+      "urban_lo": 1.323846,
+      "urban_hi": 1.90947,
+      "urban_p": 1e-06
+    },
+    {
+      "outcome": "online_milk",
+      "label": "Milk",
+      "n": 261895,
+      "n_clusters": 14827,
+      "log_mpce_or": 4.907119,
+      "log_mpce_lo": 4.023474,
+      "log_mpce_hi": 5.984832,
+      "log_mpce_p": 0.0,
+      "max_edu_years_or": 1.05362,
+      "max_edu_years_lo": 1.029342,
+      "max_edu_years_hi": 1.078471,
+      "max_edu_years_p": 1.1e-05,
+      "urban_or": 2.361142,
+      "urban_lo": 1.744969,
+      "urban_hi": 3.194895,
+      "urban_p": 0.0
+    },
+    {
+      "outcome": "online_egg_fish_meat",
+      "label": "Egg, fish and meat",
+      "n": 261895,
+      "n_clusters": 14827,
+      "log_mpce_or": 4.651532,
+      "log_mpce_lo": 3.555773,
+      "log_mpce_hi": 6.084963,
+      "log_mpce_p": 0.0,
+      "max_edu_years_or": 1.025721,
+      "max_edu_years_lo": 0.995938,
+      "max_edu_years_hi": 1.056395,
+      "max_edu_years_p": 0.091179,
+      "urban_or": 1.028608,
+      "urban_lo": 0.71997,
+      "urban_hi": 1.469555,
+      "urban_p": 0.876849
+    },
+    {
+      "outcome": "online_served_processed",
+      "label": "Served processed food",
+      "n": 261895,
+      "n_clusters": 14827,
+      "log_mpce_or": 5.961733,
+      "log_mpce_lo": 5.033923,
+      "log_mpce_hi": 7.060548,
+      "log_mpce_p": 0.0,
+      "max_edu_years_or": 1.101301,
+      "max_edu_years_lo": 1.080591,
+      "max_edu_years_hi": 1.122409,
+      "max_edu_years_p": 0.0,
+      "urban_or": 1.683761,
+      "urban_lo": 1.299435,
+      "urban_hi": 2.181756,
+      "urban_p": 8.1e-05
+    },
+    {
+      "outcome": "online_packed_processed",
+      "label": "Packaged processed food",
+      "n": 261895,
+      "n_clusters": 14827,
+      "log_mpce_or": 4.915878,
+      "log_mpce_lo": 4.098435,
+      "log_mpce_hi": 5.896362,
+      "log_mpce_p": 0.0,
+      "max_edu_years_or": 1.143811,
+      "max_edu_years_lo": 1.117556,
+      "max_edu_years_hi": 1.170683,
+      "max_edu_years_p": 0.0,
+      "urban_or": 4.312753,
+      "urban_lo": 3.218273,
+      "urban_hi": 5.779448,
+      "urban_p": 0.0
+    }
+  ],
+  "cem": {
+    "cem_cells": 3970,
+    "households_retained": 125681,
+    "households_total": 261895,
+    "online_retained": 19325,
+    "online_total": 19842,
+    "matching_variables": [
+      "State",
+      "sector",
+      "mpce_decile",
+      "education band",
+      "household size band",
+      "any_internet"
+    ]
+  },
+  "mpce_reconciliation": {
+    "published_2023_24_without_imputation": {
+      "rural": 4122.0,
+      "urban": 6996.0
+    },
+    "computed": {
+      "headline_excl_imputed_rent": {
+        "rural": 4121.78,
+        "urban": 6996.25
+      },
+      "sensitivity_incl_imputed_rent": {
+        "rural": 4290.37,
+        "urban": 8071.13
+      }
+    },
+    "households": {
+      "total": 261953,
+      "mpce_complete": 261953
+    },
+    "deviation_pct": {
+      "rural": -0.0053,
+      "urban": 0.0036
+    },
+    "reconciled": true
+  }
+}
