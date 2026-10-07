@@ -1,0 +1,73 @@
+Table 1: sample characteristics
+  characteristic                             all     offline      online
+  Any member used internet (30 d)          83.39       82.22       98.80   %
+  Clean cooking fuel                       61.56       59.40       89.80   %
+  Food expenditure                       2188.38     2102.37     3374.82   Rs/capita/30d
+  Food groups acquired                     10.08       10.06       10.39   count
+  Highest education in household           11.32       11.05       14.96   years
+  Household size                            4.18        4.19        3.98   persons
+  MPCE                                   5735.94     5372.18    10496.58   Rs/capita/30d
+  Owns land                                48.26       49.63       30.38   %
+  Urban residence                          33.57       30.26       76.81   %
+  Uses public distribution system          70.28       72.95       35.26   %
+  Vegetable quantity                        7.15        7.14        7.35   kg/capita/30d
+
+Table 2: adoption prevalence (%)
+domain                       all  rural  urban
+category                                      
+Any durable good           23.31  14.46  40.83
+Any food category           7.10   2.48  16.24
+Any fresh (veg or fruit)    1.69   0.61   3.85
+Any online purchase        45.60  34.78  67.02
+Any processed               3.54   1.06   8.46
+Any service or consumable  39.69  29.72  59.43
+Dry fruits                  0.62   0.11   1.64
+Egg, fish and meat          0.59   0.28   1.21
+Fresh fruits                1.00   0.31   2.36
+Groceries                   4.29   1.38  10.06
+Milk                        1.44   0.31   3.68
+Other food items            1.33   0.39   3.19
+Packaged processed food     1.65   0.26   4.39
+Served processed food       2.60   0.87   6.02
+Vegetables                  1.32   0.44   3.06
+
+Table 2b: adoption by MPCE decile (%)
+ mpce_decile     mpce  any_pct  vegetables_pct  processed_any_pct  processed_to_fresh_ratio
+           1  2012.70     0.34            0.05               0.12                      0.85
+           2  2652.93     0.74            0.14               0.22                      1.17
+           3  3079.74     1.01            0.17               0.25                      0.93
+           4  3486.93     1.55            0.24               0.66                      2.09
+           5  3919.48     2.29            0.41               0.81                      1.53
+           6  4421.98     3.46            0.61               1.36                      1.72
+           7  5046.44     4.87            0.88               2.02                      1.81
+           8  5885.60     7.30            1.26               3.38                      2.07
+           9  7226.29    10.69            2.11               4.76                      1.83
+          10 12053.86    23.84            4.50              13.53                      2.35
+
+Table 2c: category mix among online food buyers (%)
+               category  pct_of_adopters   se     n
+              Groceries            60.47 1.13 19842
+  Served processed food            36.59 1.08 19842
+Packaged processed food            23.19 0.90 19842
+                   Milk            20.28 0.93 19842
+       Other food items            18.70 0.91 19842
+             Vegetables            18.61 0.89 19842
+           Fresh fruits            14.12 0.76 19842
+             Dry fruits             8.78 0.66 19842
+     Egg, fish and meat             8.36 0.60 19842
+
+Table 2d: food budget composition
+             food_group  all_rs_pc  all_share_pct  offline_rs_pc  offline_share_pct  online_rs_pc  online_share_pct
+                Cereals     222.84          10.18         218.00              10.37        289.65              8.58
+                 Pulses      88.41           4.04          86.88               4.13        109.42              3.24
+ Milk and milk products     394.29          18.02         376.38              17.90        641.36             19.00
+             Vegetables     260.30          11.89         256.83              12.22        308.14              9.13
+         Fruits (fresh)     131.61           6.01         124.10               5.90        235.12              6.97
+           Fruits (dry)      60.50           2.76          55.49               2.64        129.64              3.84
+     Egg, fish and meat     216.68           9.90         212.23              10.09        278.06              8.24
+             Edible oil     117.83           5.38         116.87               5.56        131.06              3.88
+                 Spices     142.36           6.51         140.30               6.67        170.84              5.06
+         Sugar and salt      37.47           1.71          37.02               1.76         43.76              1.30
+              Beverages     124.71           5.70         115.87               5.51        246.72              7.31
+  Served processed food     232.37          10.62         215.13              10.23        470.26             13.93
+Packaged processed food     159.00           7.27         147.27               7.00        320.79              9.51

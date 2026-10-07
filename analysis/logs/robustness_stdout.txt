@@ -1,0 +1,40 @@
+coarsened exact matching
+  cells retained            : 3,970
+  households retained       : 125,681 of 261,895
+  online households retained: 19,325 of 19,842 (97.4%)
+
+standardised differences (online minus offline, in SD units)
+  variable                unmatched   matched
+  log_mpce                    1.181     0.147
+  max_edu_years               0.836     0.030
+  P_F                        -0.104     0.007
+  any_internet                0.470     0.000
+  mean_age                   -0.041    -0.034
+  share_female               -0.129    -0.020
+  owns_land                  -0.386     0.015
+  clean_cooking_fuel          0.641     0.059
+  pds_user                   -0.813    -0.150
+
+matched contrast in food budget shares (percentage points)
+  Vegetables                 online   9.41%  offline  10.39%  diff -0.976 pp  p=2.08e-09
+  Fruits (fresh)             online   6.89%  offline   6.84%  diff +0.053 pp  p=6.61e-01
+  Milk and milk products     online  18.06%  offline  18.12%  diff -0.061 pp  p=8.32e-01
+  Egg, fish and meat         online   8.10%  offline   8.28%  diff -0.177 pp  p=4.20e-01
+  Cereals                    online   8.87%  offline   9.38%  diff -0.505 pp  p=1.70e-03
+  Pulses                     online   3.37%  offline   3.63%  diff -0.255 pp  p=1.64e-04
+  Edible oil                 online   4.09%  offline   4.46%  diff -0.367 pp  p=9.99e-07
+  Packaged processed food    online   9.23%  offline   7.76%  diff +1.472 pp  p=0.00e+00
+  Served processed food      online  14.35%  offline  13.62%  diff +0.725 pp  p=3.10e-01
+  Beverages                  online   7.23%  offline   6.83%  diff +0.398 pp  p=1.11e-02
+
+E-values for the matched contrasts
+  Vegetables                 share ratio 0.906  E-value  1.44
+  Fruits (fresh)             share ratio 1.008  E-value  1.10
+  Milk and milk products     share ratio 0.997  E-value  1.06
+  Egg, fish and meat         share ratio 0.979  E-value  1.17
+  Cereals                    share ratio 0.946  E-value  1.30
+  Pulses                     share ratio 0.930  E-value  1.36
+  Edible oil                 share ratio 0.918  E-value  1.40
+  Packaged processed food    share ratio 1.190  E-value  1.66
+  Served processed food      share ratio 1.053  E-value  1.29
+  Beverages                  share ratio 1.058  E-value  1.31

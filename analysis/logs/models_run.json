@@ -1,0 +1,30 @@
+{
+  "analysis_sample": 261895,
+  "psu_clusters": 14827,
+  "continuous_covariates": [
+    "log_mpce",
+    "max_edu_years",
+    "any_internet",
+    "urban",
+    "log_hh_size",
+    "share_female",
+    "n_children_u5",
+    "n_elderly_60p",
+    "mean_age",
+    "owns_land",
+    "clean_cooking_fuel",
+    "pds_user"
+  ],
+  "categorical_covariates": [
+    "social_group",
+    "religion",
+    "household_type",
+    "State",
+    "month"
+  ],
+  "reference_levels": {
+    "social_group": "Others",
+    "religion": "Hinduism",
+    "household_type": "Others"
+  }
+}

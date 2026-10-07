@@ -1,0 +1,15 @@
+{
+  "cem_cells": 3970,
+  "households_retained": 125681,
+  "households_total": 261895,
+  "online_retained": 19325,
+  "online_total": 19842,
+  "matching_variables": [
+    "State",
+    "sector",
+    "mpce_decile",
+    "education band",
+    "household size band",
+    "any_internet"
+  ]
+}

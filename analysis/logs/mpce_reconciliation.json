@@ -1,0 +1,25 @@
+{
+  "published_2023_24_without_imputation": {
+    "rural": 4122.0,
+    "urban": 6996.0
+  },
+  "computed": {
+    "headline_excl_imputed_rent": {
+      "rural": 4121.78,
+      "urban": 6996.25
+    },
+    "sensitivity_incl_imputed_rent": {
+      "rural": 4290.37,
+      "urban": 8071.13
+    }
+  },
+  "households": {
+    "total": 261953,
+    "mpce_complete": 261953
+  },
+  "deviation_pct": {
+    "rural": -0.0053,
+    "urban": 0.0036
+  },
+  "reconciled": true
+}

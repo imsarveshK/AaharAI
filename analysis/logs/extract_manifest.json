@@ -1,0 +1,76 @@
+{
+  "archive": "data/inbox/hces_2023_24/HCES_Data_2023-24_Csv.zip",
+  "sha256": "acf7b9cc840676fb812c05c48f09fa034955fe2cad5112e6d9b6d852f5f2e267",
+  "levels": {
+    "01": {
+      "member": "LEVEL - 01(Section 1 and 1_1).csv",
+      "rows": 261953,
+      "columns": 22,
+      "distinct_households": 261953,
+      "output": "hces_L01.parquet"
+    },
+    "02": {
+      "member": "LEVEL - 02 (Section 3).csv",
+      "rows": 1107221,
+      "columns": 37,
+      "distinct_households": 261953,
+      "output": "hces_L02.parquet"
+    },
+    "03": {
+      "member": "LEVEL - 03.csv",
+      "rows": 261953,
+      "columns": 41,
+      "distinct_households": 261953,
+      "output": "hces_L03.parquet"
+    },
+    "04": {
+      "member": "LEVEL - 04 (Section 4_1).csv",
+      "rows": 261953,
+      "columns": 39,
+      "distinct_households": 261953,
+      "output": "hces_L04.parquet"
+    },
+    "05": {
+      "member": "LEVEL - 05 ( Sec 5  6).csv",
+      "rows": 12754437,
+      "columns": 26,
+      "distinct_households": 261245,
+      "output": "hces_L05.parquet"
+    },
+    "06": {
+      "member": "LEVEL - 06 (Section 7).csv",
+      "rows": 1757264,
+      "columns": 24,
+      "distinct_households": 259553,
+      "output": "hces_L06.parquet"
+    },
+    "07": {
+      "member": "LEVEL - 07 (Section 4_2).csv",
+      "rows": 261953,
+      "columns": 48,
+      "distinct_households": 261953,
+      "output": "hces_L07.parquet"
+    },
+    "11": {
+      "member": "LEVEL - 11 (Section 4_3).csv",
+      "rows": 261953,
+      "columns": 60,
+      "distinct_households": 261953,
+      "output": "hces_L11.parquet"
+    },
+    "14": {
+      "member": "LEVEL - 14 (Section  A1,B1  C1).csv",
+      "rows": 8296569,
+      "columns": 23,
+      "distinct_households": 261953,
+      "output": "hces_L14.parquet"
+    },
+    "15": {
+      "member": "LEVEL - 15 (Section 1_1, A2,B2  C2).csv",
+      "rows": 1047812,
+      "columns": 29,
+      "distinct_households": 261953,
+      "output": "hces_L15.parquet"
+    }
+  }
+}

@@ -1,0 +1,94 @@
+analysis sample: 261,895 households
+
+A1. Adoption of any online food purchase
+  log_mpce               OR= 6.615 (5.823, 7.515) p=2.29e-185
+  max_edu_years          OR= 1.100 (1.086, 1.113) p=1.04e-50
+  any_internet           OR= 2.881 (2.204, 3.767) p=1.01e-14
+  urban                  OR= 1.823 (1.559, 2.132) p=5.45e-14
+  log_hh_size            OR= 2.567 (2.306, 2.858) p=2.88e-66
+  share_female           OR= 0.893 (0.753, 1.061) p=1.98e-01
+  n_children_u5          OR= 0.947 (0.898, 0.999) p=4.71e-02
+  n_elderly_60p          OR= 1.021 (0.968, 1.077) p=4.45e-01
+  mean_age               OR= 0.992 (0.988, 0.996) p=2.51e-04
+  owns_land              OR= 1.018 (0.923, 1.123) p=7.18e-01
+  clean_cooking_fuel     OR= 1.547 (1.319, 1.813) p=7.97e-08
+  pds_user               OR= 0.689 (0.630, 0.754) p=5.07e-16
+
+A2. Adoption by food category (odds ratios on log MPCE)
+  Vegetables               OR(log MPCE)= 4.418 (3.586, 5.443)
+  Fresh fruits             OR(log MPCE)= 4.846 (3.938, 5.965)
+  Groceries                OR(log MPCE)= 4.993 (4.303, 5.793)
+  Milk                     OR(log MPCE)= 4.907 (4.023, 5.985)
+  Egg, fish and meat       OR(log MPCE)= 4.652 (3.556, 6.085)
+  Served processed food    OR(log MPCE)= 5.962 (5.034, 7.061)
+  Packaged processed food  OR(log MPCE)= 4.916 (4.098, 5.896)
+
+B. Food budget composition (share outcomes, coefficient on online_food_any)
+  [share] Vegetables                                     b=-0.00630 (-0.00825, -0.00435) p=2.46e-10
+  [share] Fruits (fresh)                                 b=+0.00049 (-0.00130, +0.00228) p=5.89e-01
+  [share] Milk and milk products                         b=-0.00513 (-0.00800, -0.00226) p=4.57e-04
+  [share] Egg, fish and meat                             b=-0.00368 (-0.00627, -0.00110) p=5.24e-03
+  [share] Cereals                                        b=-0.00692 (-0.00884, -0.00500) p=1.45e-12
+  [share] Pulses                                         b=-0.00226 (-0.00322, -0.00131) p=3.63e-06
+  [share] Edible oil                                     b=-0.00253 (-0.00343, -0.00163) p=3.50e-08
+  [share] Packaged processed food                        b=+0.01814 (+0.01495, +0.02132) p=7.37e-29
+  [share] Served processed food                          b=+0.00317 (-0.00363, +0.00998) p=3.61e-01
+  [share] Beverages                                      b=+0.00559 (+0.00342, +0.00775) p=4.23e-07
+
+C. Levels and diversity
+  [level] Vegetable quantity (kg/capita/30d)             b=-0.23381 (-0.39563, -0.07199) p=4.63e-03
+  [level] log food expenditure per capita                b=+0.04691 (+0.03594, +0.05788) p=5.20e-17
+  [level] log vegetable expenditure per capita           b=+0.03056 (-0.02263, +0.08375) p=2.60e-01
+  [level] log packaged processed expenditure per capita  b=+0.23309 (+0.19603, +0.27016) p=6.50e-35
+  [level] log served processed expenditure per capita    b=+0.24605 (+0.19208, +0.30002) p=4.06e-19
+  [level] log beverage expenditure per capita            b=+0.14035 (+0.07107, +0.20963) p=7.17e-05
+  [level] Number of food groups acquired                 b=+0.05405 (-0.00012, +0.10822) p=5.05e-02
+  [level] Vegetable unit value (Rs/kg)                   b=+0.76447 (+0.24128, +1.28765) p=4.19e-03
+
+D. Robustness: continuous exposure (log online food spend per capita)
+  [share-cont] Vegetables                                     b=-0.00106 (-0.00138, -0.00074) p=9.91e-11
+  [share-cont] Fruits (fresh)                                 b=+0.00024 (-0.00007, +0.00055) p=1.22e-01
+  [share-cont] Milk and milk products                         b=-0.00098 (-0.00146, -0.00049) p=7.30e-05
+  [share-cont] Egg, fish and meat                             b=-0.00054 (-0.00099, -0.00010) p=1.61e-02
+  [share-cont] Cereals                                        b=-0.00129 (-0.00160, -0.00098) p=9.25e-16
+  [share-cont] Pulses                                         b=-0.00039 (-0.00055, -0.00023) p=1.91e-06
+  [share-cont] Edible oil                                     b=-0.00030 (-0.00047, -0.00014) p=3.13e-04
+  [share-cont] Packaged processed food                        b=+0.00299 (+0.00244, +0.00353) p=6.24e-27
+  [share-cont] Served processed food                          b=+0.00017 (-0.00103, +0.00137) p=7.79e-01
+  [share-cont] Beverages                                      b=+0.00101 (+0.00059, +0.00143) p=2.96e-06
+
+D2. Robustness: exposure from reported 30-day online food expenditure
+  [share-exp] Vegetables                                     b=-0.00612 (-0.00788, -0.00436) p=1.01e-11
+  [share-exp] Fruits (fresh)                                 b=+0.00152 (-0.00012, +0.00315) p=6.86e-02
+  [share-exp] Milk and milk products                         b=-0.00549 (-0.00811, -0.00286) p=4.23e-05
+  [share-exp] Egg, fish and meat                             b=-0.00323 (-0.00566, -0.00080) p=9.19e-03
+  [share-exp] Cereals                                        b=-0.00752 (-0.00927, -0.00577) p=3.78e-17
+  [share-exp] Pulses                                         b=-0.00218 (-0.00302, -0.00134) p=3.81e-07
+  [share-exp] Edible oil                                     b=-0.00175 (-0.00265, -0.00086) p=1.16e-04
+  [share-exp] Packaged processed food                        b=+0.01653 (+0.01357, +0.01949) p=7.17e-28
+  [share-exp] Served processed food                          b=+0.00192 (-0.00419, +0.00804) p=5.37e-01
+  [share-exp] Beverages                                      b=+0.00565 (+0.00343, +0.00788) p=6.27e-07
+
+E0. Robustness: exposure restricted to the eight 7-day categories
+  [share-7d] Vegetables                                     b=-0.00570 (-0.00783, -0.00357) p=1.59e-07
+  [share-7d] Fruits (fresh)                                 b=-0.00188 (-0.00387, +0.00011) p=6.44e-02
+  [share-7d] Milk and milk products                         b=-0.00642 (-0.00947, -0.00336) p=3.81e-05
+  [share-7d] Egg, fish and meat                             b=-0.00640 (-0.00929, -0.00350) p=1.47e-05
+  [share-7d] Cereals                                        b=-0.00751 (-0.00946, -0.00557) p=3.62e-14
+  [share-7d] Pulses                                         b=-0.00185 (-0.00296, -0.00074) p=1.09e-03
+  [share-7d] Edible oil                                     b=-0.00226 (-0.00320, -0.00131) p=2.89e-06
+  [share-7d] Packaged processed food                        b=+0.01681 (+0.01338, +0.02024) p=7.47e-22
+  [share-7d] Served processed food                          b=+0.01247 (+0.00499, +0.01995) p=1.09e-03
+  [share-7d] Beverages                                      b=+0.00625 (+0.00370, +0.00880) p=1.58e-06
+
+E. Robustness: urban households only
+  [urban] Vegetables                               b=-0.00862 p=1.94e-16
+  [urban] Fruits (fresh)                           b=+0.00059 p=5.88e-01
+  [urban] Milk and milk products                   b=-0.00041 p=8.13e-01
+  [urban] Egg, fish and meat                       b=-0.00101 p=4.28e-01
+  [urban] Cereals                                  b=-0.00780 p=6.12e-14
+  [urban] Pulses                                   b=-0.00275 p=2.56e-10
+  [urban] Edible oil                               b=-0.00376 p=6.56e-15
+  [urban] Packaged processed food                  b=+0.01796 p=1.18e-22
+  [urban] Served processed food                    b=-0.00145 p=7.26e-01
+  [urban] Beverages                                b=+0.00645 p=1.38e-06

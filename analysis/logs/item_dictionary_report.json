@@ -1,0 +1,21 @@
+{
+  "questionnaire": "data/raw/hces/hces_2023_24_questionnaire.pdf",
+  "items_parsed": 186,
+  "codes_observed_in_L05_L06": 183,
+  "unresolved_codes": [],
+  "parsed_but_not_observed": [
+    "057",
+    "058",
+    "060"
+  ],
+  "source_codes": {
+    "1": "only purchase",
+    "2": "only home-grown stock",
+    "3": "both purchase and home-grown stock",
+    "4": "only free collection",
+    "5": "only exchange of goods and services",
+    "6": "only gifts/charities",
+    "7": "received free through PDS",
+    "9": "others"
+  }
+}
