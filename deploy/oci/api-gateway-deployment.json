@@ -1,0 +1,36 @@
+{
+  "requestPolicies": {
+    "rateLimiting": {
+      "rateInRequestsPerSecond": 5,
+      "rateKey": "CLIENT_IP"
+    }
+  },
+  "routes": [
+    {
+      "path": "/health",
+      "methods": [
+        "GET"
+      ],
+      "backend": {
+        "type": "HTTP_BACKEND",
+        "url": "http://10.42.0.185:8000/health",
+        "connectTimeoutInSeconds": 5,
+        "readTimeoutInSeconds": 15,
+        "sendTimeoutInSeconds": 15
+      }
+    },
+    {
+      "path": "/v1/parse-food-log",
+      "methods": [
+        "POST"
+      ],
+      "backend": {
+        "type": "HTTP_BACKEND",
+        "url": "http://10.42.0.185:8000/v1/parse-food-log",
+        "connectTimeoutInSeconds": 10,
+        "readTimeoutInSeconds": 45,
+        "sendTimeoutInSeconds": 45
+      }
+    }
+  ]
+}
